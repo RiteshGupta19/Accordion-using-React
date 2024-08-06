@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/(repo%20name)/static/css/main.47322840.css",
-    "main.js": "/(repo%20name)/static/js/main.e4d8f388.js",
-    "static/js/453.b4b6be12.chunk.js": "/(repo%20name)/static/js/453.b4b6be12.chunk.js",
-    "index.html": "/(repo%20name)/index.html",
-    "main.47322840.css.map": "/(repo%20name)/static/css/main.47322840.css.map",
-    "main.e4d8f388.js.map": "/(repo%20name)/static/js/main.e4d8f388.js.map",
-    "453.b4b6be12.chunk.js.map": "/(repo%20name)/static/js/453.b4b6be12.chunk.js.map"
+    "main.css": "/FAQ-Accordion-using-React/static/css/main.47322840.css",
+    "main.js": "/FAQ-Accordion-using-React/static/js/main.d57b8aea.js",
+    "static/js/453.b4b6be12.chunk.js": "/FAQ-Accordion-using-React/static/js/453.b4b6be12.chunk.js",
+    "index.html": "/FAQ-Accordion-using-React/index.html",
+    "main.47322840.css.map": "/FAQ-Accordion-using-React/static/css/main.47322840.css.map",
+    "main.d57b8aea.js.map": "/FAQ-Accordion-using-React/static/js/main.d57b8aea.js.map",
+    "453.b4b6be12.chunk.js.map": "/FAQ-Accordion-using-React/static/js/453.b4b6be12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47322840.css",
-    "static/js/main.e4d8f388.js"
+    "static/js/main.d57b8aea.js"
   ]
 }
